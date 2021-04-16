@@ -9,7 +9,7 @@ current working on 104 Corporation. use and learn web framework for Angular2+ an
 short introduction~ Nice to meet you everyone 😆
 
 
-<h2>📌 That I  and use</h2>
+<h2>📌 That I Know and use</h2>
 <h3>📖 Langues and Frameworks</h3>
 
 + HTML5, pug
