@@ -18,7 +18,8 @@ short introduction~ Nice to meet you everyone 😆
 + RxJS, Redux
 + AJAX
 + Socket
-+ Angular2+, vue3 composition api
++ Angular2+, vue3 composition api, vue2
++ vuex
 + Bootstrap, Material ui
 
 <h3>🔧 Tool</h3>
@@ -30,6 +31,7 @@ short introduction~ Nice to meet you everyone 😆
 
 + 履歷診療室
 + 104 招募管理
++ 打工探吉
 
 <h2>❤️ Get in touch</h2>
 
